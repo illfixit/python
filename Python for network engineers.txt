@@ -1,0 +1,34 @@
+Python for network engineers
+
+01 Introduction
+Start
+
+
+02 Working with git and Github
+03 Beginning with Python
+04 Data types
+05 Creation of basic scripts
+06 Program's workflow control
+07 Working with files
+08 Basic examples
+09 Functions
+10 Useful functions
+11 Modules
+12 Useful modules
+13 Iterators, iterable objects
+14 Syntax of regular expressions
+15 Re module
+16 Unicode
+17 Working with CSV, JSON, YAML files
+18 Working with databases
+19 Connecting to devices
+20 Parallel connection to multiple devices
+21 Template configurations with Jinja2
+22 TextFSM command output processing
+23 Ansible. Basics
+24 Ansible. Network module basics
+25 OOP. Basics
+26 OOP. Special methods
+27 OOP. Inheritance
+28 Final lecture
+Bonus lectures
