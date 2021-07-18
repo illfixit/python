@@ -5,6 +5,9 @@ Start
 Finish
 
 02 Working with git and Github
+Start
+
+
 03 Beginning with Python
 04 Data types
 05 Creation of basic scripts
