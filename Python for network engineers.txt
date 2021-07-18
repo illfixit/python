@@ -8,7 +8,10 @@ Finish
 Start
 Finish
 
-03 Beginning with Python
+03 Starting with Python
+Start
+
+
 04 Data types
 05 Creation of basic scripts
 06 Program's workflow control
