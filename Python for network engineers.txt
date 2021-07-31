@@ -14,7 +14,7 @@ Finish
 
 04 Data types
 Start
-
+Finish
 
 05 Creation of basic scripts
 06 Program's workflow control
