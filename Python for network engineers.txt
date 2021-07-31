@@ -17,6 +17,9 @@ Start
 Finish
 
 05 Creation of basic scripts
+Start
+
+
 06 Program's workflow control
 07 Working with files
 08 Basic examples
