@@ -70,7 +70,7 @@ Finish
 
 18 Working with databases
 Start
-
+Finish
 
 19 Connecting to devices
 20 Parallel connection to multiple devices
