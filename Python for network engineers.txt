@@ -72,7 +72,14 @@ Finish
 Start
 Finish
 
-19 Connecting to devices
+19 Connecting to devices Part I
+Start
+
+
+19 Connecting to devices Part II
+
+
+
 20 Parallel connection to multiple devices
 21 Template configurations with Jinja2
 22 TextFSM command output processing
