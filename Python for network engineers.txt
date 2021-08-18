@@ -77,7 +77,7 @@ Start
 Finish
 
 19 Connecting to devices Part II
-
+Start
 
 
 20 Parallel connection to multiple devices
