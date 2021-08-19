@@ -82,7 +82,7 @@ Finish
 
 20 Parallel connection to multiple devices
 Start
-
+Finish
 
 21 Template configurations with Jinja2
 22 TextFSM command output processing
