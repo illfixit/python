@@ -85,6 +85,9 @@ Start
 Finish
 
 21 Template configurations with Jinja2
+Start
+
+
 22 TextFSM command output processing
 23 Ansible. Basics
 24 Ansible. Network module basics
