@@ -93,6 +93,9 @@ Start
 Finish
 
 23 Ansible. Basics
+Start
+
+
 24 Ansible. Network module basics
 25 OOP. Basics
 26 OOP. Special methods
