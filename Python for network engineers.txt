@@ -89,6 +89,9 @@ Start
 Finish
 
 22 TextFSM command output processing
+Start
+
+
 23 Ansible. Basics
 24 Ansible. Network module basics
 25 OOP. Basics
