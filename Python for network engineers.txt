@@ -94,7 +94,7 @@ Finish
 
 23 Ansible. Basics
 Start
-
+Finish
 
 24 Ansible. Network module basics
 25 OOP. Basics
