@@ -97,6 +97,9 @@ Start
 Finish
 
 24 Ansible. Network module basics
+Start
+
+
 25 OOP. Basics
 26 OOP. Special methods
 27 OOP. Inheritance
