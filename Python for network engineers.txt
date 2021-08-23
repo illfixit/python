@@ -101,6 +101,9 @@ Start
 Finish
 
 25 OOP. Basics
+Start
+
+
 26 OOP. Special methods
 27 OOP. Inheritance
 28 Final lecture
