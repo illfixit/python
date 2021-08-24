@@ -106,7 +106,7 @@ Finish
 
 26 OOP. Special methods
 Start
-
+Finish
 
 27 OOP. Inheritance
 28 Final lecture
