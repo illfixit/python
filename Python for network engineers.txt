@@ -109,5 +109,8 @@ Start
 Finish
 
 27 OOP. Inheritance
+Start
+
+
 28 Final lecture
 Bonus lectures
