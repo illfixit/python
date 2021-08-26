@@ -116,4 +116,14 @@ Finish
 Start
 Finish
 
-Bonus lectures
+Bonus 1 PEP, PDB
+Start
+
+
+Bonus 2 VIM, MU
+Bonus 3 Advanced OOP
+Bonus 4 Generators
+Bonus 5 Python Package
+Bonus 6 Logging
+Bonus 7 Basis of Decorators
+Bonus 8 Decorators
