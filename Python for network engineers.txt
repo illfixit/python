@@ -121,6 +121,9 @@ Start
 Finish
 
 Bonus 2 VIM, MU
+Start
+
+
 Bonus 3 Advanced OOP
 Bonus 4 Generators
 Bonus 5 Python Package
