@@ -122,7 +122,7 @@ Finish
 
 Bonus 2 VIM, MU
 Start
-
+Finish
 
 Bonus 3 Advanced OOP
 Bonus 4 Generators
