@@ -126,7 +126,7 @@ Finish
 
 Bonus 3 Advanced OOP
 Start
-
+Finish
 
 Bonus 4 Generators
 Bonus 5 Python Package
