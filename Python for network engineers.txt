@@ -138,7 +138,7 @@ Finish
 
 Bonus 6 Logging
 Start
-
+Finish
 
 Bonus 7 Basis of Decorators
 Bonus 8 Decorators
