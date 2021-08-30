@@ -133,6 +133,9 @@ Start
 Finish
 
 Bonus 5 Python Package
+Start
+
+
 Bonus 6 Logging
 Bonus 7 Basis of Decorators
 Bonus 8 Decorators
