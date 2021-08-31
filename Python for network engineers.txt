@@ -142,6 +142,6 @@ Finish
 
 Bonus 7 Basis of Decorators
 Start
-
+Finish
 
 Bonus 8 Decorators
