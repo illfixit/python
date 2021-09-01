@@ -1,0 +1,15 @@
+Complete Data Science & Machine Learning Bootcamp
+
+01 Introduction to the Course
+02 Predict Movie Box Office Revenue with Linear Regression
+03 Python Programming for Data Science and Machine Learning
+04 Introduction to Optimisation and the Gradient Descent Algorithm
+05 Predict House Prices with Multivariable Linear Regression
+06 Pre-Process Text Data for a Naive Bayes Classifier to Filter Spam Emails_ Part 1
+07 Train a Naive Bayes Classifier to Create a Spam Filter_ Part 2
+08 Test and Evaluate a Naive Bayes Classifier_ Part 3
+09 Introduction to Neural Networks and How to Use Pre-Trained Models
+10 Build an Artificial Neural Network to Recognise Images using Keras & Tensorflow
+11 Use Tensorflow to Classify Handwritten Digits
+12 Serving a Tensorflow Model through a Website
+13 Next Steps
