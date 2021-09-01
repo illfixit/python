@@ -5,6 +5,9 @@ Start
 Finish
 
 02 Predict Movie Box Office Revenue with Linear Regression
+Start
+
+
 03 Python Programming for Data Science and Machine Learning
 04 Introduction to Optimisation and the Gradient Descent Algorithm
 05 Predict House Prices with Multivariable Linear Regression
