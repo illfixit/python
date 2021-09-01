@@ -2,7 +2,7 @@ Complete Data Science & Machine Learning Bootcamp
 
 01 Introduction to the Course
 Start
-
+Finish
 
 02 Predict Movie Box Office Revenue with Linear Regression
 03 Python Programming for Data Science and Machine Learning
