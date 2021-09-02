@@ -10,7 +10,7 @@ Finish
 
 03 Python Programming for Data Science and Machine Learning
 Start
-
+Finish
 
 04 Introduction to Optimisation and the Gradient Descent Algorithm
 05 Predict House Prices with Multivariable Linear Regression
