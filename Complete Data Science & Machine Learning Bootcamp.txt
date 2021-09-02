@@ -14,8 +14,10 @@ Finish
 
 04 Introduction to Optimisation and the Gradient Descent Algorithm Part I
 Start
+Finish
 
 04 Introduction to Optimisation and the Gradient Descent Algorithm Part II
+04 Introduction to Optimisation and the Gradient Descent Algorithm Part III
 05 Predict House Prices with Multivariable Linear Regression
 06 Pre-Process Text Data for a Naive Bayes Classifier to Filter Spam Emails_ Part 1
 07 Train a Naive Bayes Classifier to Create a Spam Filter_ Part 2
