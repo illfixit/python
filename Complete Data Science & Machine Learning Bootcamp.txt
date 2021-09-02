@@ -9,6 +9,9 @@ Start
 Finish
 
 03 Python Programming for Data Science and Machine Learning
+Start
+
+
 04 Introduction to Optimisation and the Gradient Descent Algorithm
 05 Predict House Prices with Multivariable Linear Regression
 06 Pre-Process Text Data for a Naive Bayes Classifier to Filter Spam Emails_ Part 1
