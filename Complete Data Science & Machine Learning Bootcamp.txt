@@ -18,7 +18,7 @@ Finish
 
 04 Introduction to Optimisation and the Gradient Descent Algorithm Part II
 Start
-
+Finish
 
 04 Introduction to Optimisation and the Gradient Descent Algorithm Part III
 05 Predict House Prices with Multivariable Linear Regression
