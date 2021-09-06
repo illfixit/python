@@ -24,10 +24,15 @@ Finish
 Start
 Finish
 
-05 Predict House Prices with Multivariable Linear Regression
-06 Pre-Process Text Data for a Naive Bayes Classifier to Filter Spam Emails_ Part 1
-07 Train a Naive Bayes Classifier to Create a Spam Filter_ Part 2
-08 Test and Evaluate a Naive Bayes Classifier_ Part 3
+05 Predict House Prices with Multivariable Linear Regression Part I
+Start
+
+
+05 Predict House Prices with Multivariable Linear Regression Part II
+05 Predict House Prices with Multivariable Linear Regression Part III
+06 Pre-Process Text Data for a Naive Bayes Classifier to Filter Spam Emails Part 1
+07 Train a Naive Bayes Classifier to Create a Spam Filter Part 2
+08 Test and Evaluate a Naive Bayes Classifier Part 3
 09 Introduction to Neural Networks and How to Use Pre-Trained Models
 10 Build an Artificial Neural Network to Recognise Images using Keras & Tensorflow
 11 Use Tensorflow to Classify Handwritten Digits
