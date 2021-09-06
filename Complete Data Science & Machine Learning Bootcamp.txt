@@ -26,7 +26,7 @@ Finish
 
 05 Predict House Prices with Multivariable Linear Regression Part I
 Start
-
+Finish
 
 05 Predict House Prices with Multivariable Linear Regression Part II
 05 Predict House Prices with Multivariable Linear Regression Part III
