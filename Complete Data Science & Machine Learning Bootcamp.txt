@@ -30,7 +30,7 @@ Finish
 
 05 Predict House Prices with Multivariable Linear Regression Part II
 Start
-
+Finish
 
 05 Predict House Prices with Multivariable Linear Regression Part III
 06 Pre-Process Text Data for a Naive Bayes Classifier to Filter Spam Emails Part 1
