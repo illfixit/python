@@ -34,7 +34,7 @@ Finish
 
 05 Predict House Prices with Multivariable Linear Regression Part III
 Start
-
+Finish
 
 06 Pre-Process Text Data for a Naive Bayes Classifier to Filter Spam Emails Part 1
 07 Train a Naive Bayes Classifier to Create a Spam Filter Part 2
