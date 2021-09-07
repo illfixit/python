@@ -36,7 +36,12 @@ Finish
 Start
 Finish
 
-06 Pre-Process Text Data for a Naive Bayes Classifier to Filter Spam Emails Part 1
+06 Pre-Process Text Data for a Naive Bayes Classifier to Filter Spam Emails Part 1 I
+Start
+
+
+06 Pre-Process Text Data for a Naive Bayes Classifier to Filter Spam Emails Part 1 II
+06 Pre-Process Text Data for a Naive Bayes Classifier to Filter Spam Emails Part 1 III
 07 Train a Naive Bayes Classifier to Create a Spam Filter Part 2
 08 Test and Evaluate a Naive Bayes Classifier Part 3
 09 Introduction to Neural Networks and How to Use Pre-Trained Models
