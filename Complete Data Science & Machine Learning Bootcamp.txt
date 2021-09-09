@@ -61,6 +61,9 @@ Start
 Finish
 
 10 Build an Artificial Neural Network to Recognise Images using Keras & Tensorflow
+Start
+
+
 11 Use Tensorflow to Classify Handwritten Digits
 12 Serving a Tensorflow Model through a Website
 13 Next Steps
