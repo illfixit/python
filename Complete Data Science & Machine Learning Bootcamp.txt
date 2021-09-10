@@ -68,4 +68,10 @@ Finish
 Start
 Finish
 
-12 Serving a Tensorflow Model through a Website
+12 Serving a Tensorflow Model through a Website Part I
+Start
+
+
+12 Serving a Tensorflow Model through a Website Part II
+12 Serving a Tensorflow Model through a Website Part III
+
