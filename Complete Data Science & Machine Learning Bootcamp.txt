@@ -65,5 +65,7 @@ Start
 Finish
 
 11 Use Tensorflow to Classify Handwritten Digits
+Start
+
+
 12 Serving a Tensorflow Model through a Website
-13 Next Steps
