@@ -70,7 +70,7 @@ Finish
 
 12 Serving a Tensorflow Model through a Website Part I
 Start
-
+Finish
 
 12 Serving a Tensorflow Model through a Website Part II
 12 Serving a Tensorflow Model through a Website Part III
