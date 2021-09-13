@@ -9,6 +9,9 @@ Start
 Finish
 
 03 Milestone (Project 1)
+Start
+
+
 04 Object-Oriented Programming with Python
 05 Errors in Python
 06 Files in Python
