@@ -5,6 +5,9 @@ Start
 Finish
 
 02 Functions and loops in Python
+Start
+
+
 03 Milestone (Project 1)
 04 Object-Oriented Programming with Python
 05 Errors in Python
