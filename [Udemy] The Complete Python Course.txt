@@ -13,6 +13,9 @@ Start
 Finish
 
 04 Object-Oriented Programming with Python
+Start
+
+
 05 Errors in Python
 06 Files in Python
 07 Databases in Python & Milestone (Project 2)
