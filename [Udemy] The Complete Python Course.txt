@@ -17,6 +17,9 @@ Start
 Finish
 
 05 Errors in Python
+Start
+
+
 06 Files in Python
 07 Databases in Python & Milestone (Project 2)
 08 Type hinting in Python
