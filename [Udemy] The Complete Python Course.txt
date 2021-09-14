@@ -18,7 +18,7 @@ Finish
 
 05 Errors in Python
 Start
-
+Finish
 
 06 Files in Python
 07 Databases in Python & Milestone (Project 2)
