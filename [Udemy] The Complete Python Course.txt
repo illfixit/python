@@ -29,6 +29,9 @@ Start
 Finish
 
 08 Type hinting in Python
+Start
+
+
 09 Advanced built-in functions in Python
 10 Advanced Python Development
 11 Web Scraping with Python
