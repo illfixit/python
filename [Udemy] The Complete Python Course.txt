@@ -25,6 +25,9 @@ Start
 Finish
 
 07 Databases in Python & Milestone (Project 2)
+Start
+
+
 08 Type hinting in Python
 09 Advanced built-in functions in Python
 10 Advanced Python Development
