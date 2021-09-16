@@ -34,7 +34,7 @@ Finish
 
 09 Advanced built-in functions in Python
 Start
-
+Finish
 
 10 Advanced Python Development
 11 Web Scraping with Python
