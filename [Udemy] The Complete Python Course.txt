@@ -42,7 +42,7 @@ Finish
 
 11 Web Scraping with Python
 Start
-
+Finish
 
 12 Asynchronous Python Development
 13 Python on the console and managing project dependencies
