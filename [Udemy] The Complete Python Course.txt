@@ -37,6 +37,9 @@ Start
 Finish
 
 10 Advanced Python Development
+Start
+
+
 11 Web Scraping with Python
 12 Asynchronous Python Development
 13 Python on the console and managing project dependencies
