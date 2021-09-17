@@ -49,6 +49,9 @@ Start
 Finish
 
 13 Python on the console and managing project dependencies
+Start
+
+
 14 Web Development with Flask
 15 Decorators in Python
 16 Advanced Object-Oriented Programming
