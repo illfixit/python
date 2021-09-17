@@ -50,7 +50,7 @@ Finish
 
 13 Python on the console and managing project dependencies
 Start
-
+Finish
 
 14 Web Development with Flask
 15 Decorators in Python
