@@ -8,7 +8,10 @@ Finish
 Start
 Finish
 
-03 URLs & Views 
+03 URLs & Views
+Start
+
+
 04 Templates & Static Files 
 05 Course Project_ Building a Blog - The Basics 
 06 Data & Models 
