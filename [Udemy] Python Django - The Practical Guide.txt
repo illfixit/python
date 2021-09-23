@@ -6,7 +6,7 @@ Finish
 
 02 Course Setup
 Start
-
+Finish
 
 03 URLs & Views 
 04 Templates & Static Files 
