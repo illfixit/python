@@ -2,7 +2,7 @@
 
 01 Getting Started 
 Start
-
+Finish
 
 02 Course Setup 
 03 URLs & Views 
