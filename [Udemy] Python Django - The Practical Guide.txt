@@ -13,6 +13,9 @@ Start
 Finish
 
 04 Templates & Static Files 
+Start
+
+
 05 Course Project_ Building a Blog - The Basics 
 06 Data & Models 
 07 Admin 
