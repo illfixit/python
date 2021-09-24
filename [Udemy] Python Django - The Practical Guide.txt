@@ -17,6 +17,9 @@ Start
 Finish
 
 05 Course Project_ Building a Blog - The Basics 
+Start
+
+
 06 Data & Models 
 07 Admin 
 08 Relationships 
