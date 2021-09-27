@@ -21,6 +21,9 @@ Start
 Finish
 
 06 Data & Models 
+Start
+
+
 07 Admin 
 08 Relationships 
 09 Course Project - Building a Blog_ Data & Models 
