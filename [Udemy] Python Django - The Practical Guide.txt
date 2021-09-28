@@ -29,6 +29,9 @@ Start
 Finish
 
 08 Relationships 
+Start
+
+
 09 Course Project - Building a Blog_ Data & Models 
 10 Forms 
 11 Class Views 
