@@ -34,7 +34,7 @@ Finish
 
 09 Course Project - Building a Blog Data & Models 
 Start
-
+Finish
 
 10 Forms 
 11 Class Views 
