@@ -16,7 +16,7 @@ Finish
 Start
 Finish
 
-05 Course Project_ Building a Blog - The Basics 
+05 Course Project Building a Blog - The Basics 
 Start
 Finish
 
@@ -32,11 +32,14 @@ Finish
 Start
 Finish
 
-09 Course Project - Building a Blog_ Data & Models 
+09 Course Project - Building a Blog Data & Models 
+Start
+
+
 10 Forms 
 11 Class Views 
 12 File Uploads 
 13 Sessions 
-14 Course Project_ Building a Blog - Forms, Files & Sessions 
+14 Course Project Building a Blog - Forms, Files & Sessions 
 15 Deployment 
-16 Optional_ Django Summary & Quick Introduction 
+16 Optional Django Summary & Quick Introduction 
