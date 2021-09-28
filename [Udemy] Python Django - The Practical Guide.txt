@@ -30,7 +30,7 @@ Finish
 
 08 Relationships 
 Start
-
+Finish
 
 09 Course Project - Building a Blog_ Data & Models 
 10 Forms 
