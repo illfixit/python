@@ -41,6 +41,9 @@ Start
 Finish
 
 11 Class Views 
+Start
+
+
 12 File Uploads 
 13 Sessions 
 14 Course Project Building a Blog - Forms, Files & Sessions 
