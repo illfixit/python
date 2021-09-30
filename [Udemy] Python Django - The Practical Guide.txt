@@ -45,6 +45,9 @@ Start
 Finish
 
 12 File Uploads 
+Start
+
+
 13 Sessions 
 14 Course Project Building a Blog - Forms, Files & Sessions 
 15 Deployment 
