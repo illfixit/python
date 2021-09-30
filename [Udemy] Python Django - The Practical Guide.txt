@@ -42,7 +42,6 @@ Finish
 
 11 Class Views 
 Start
-Finish
 
 12 File Uploads 
 13 Sessions 
