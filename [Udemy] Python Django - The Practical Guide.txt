@@ -50,7 +50,7 @@ Finish
 
 13 Sessions 
 Start
-
+Finish
 
 14 Course Project Building a Blog - Forms, Files & Sessions 
 15 Deployment 
