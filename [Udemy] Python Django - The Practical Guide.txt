@@ -53,5 +53,8 @@ Start
 Finish
 
 14 Course Project Building a Blog - Forms, Files & Sessions 
+Start
+
+
 15 Deployment 
 16 Optional Django Summary & Quick Introduction 
