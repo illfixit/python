@@ -57,4 +57,7 @@ Start
 Finish
 
 15 Deployment 
+Start
+
+
 16 Optional Django Summary & Quick Introduction 
