@@ -58,6 +58,6 @@ Finish
 
 15 Deployment 
 Start
-
+Finish
 
 16 Optional Django Summary & Quick Introduction 
