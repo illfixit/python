@@ -60,4 +60,8 @@ Finish
 Start
 Finish
 
-16 Optional Django Summary & Quick Introduction 
+16 Optional Django Summary & Quick Introduction Part I
+Start
+
+
+16 Optional Django Summary & Quick Introduction Part I
