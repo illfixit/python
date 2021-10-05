@@ -1,0 +1,12 @@
+[Udemy] Python GUI Development with PyQt6
+
+1. PyQt6 Introduction & Installation 
+2. PyQt6 Widgets Introduction Part I
+2. PyQt6 Widgets Introduction Part II
+3. Simple Notepad Application in PyQt6 
+4. Database Handling in PyQt6 
+5. 2D Graphics And Drawing 
+6. QtQuick & QML in PyQt6 
+7. Charts in PyQt6 
+8. Library Management System in PyQt6 
+9. QtMultiMedia, QtWebEngine & Packaging PyQt Application 
