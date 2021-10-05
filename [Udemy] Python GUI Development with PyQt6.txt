@@ -6,7 +6,7 @@ Finish
 
 2. PyQt6 Widgets Introduction Part I
 Start
-
+Finish
 
 2. PyQt6 Widgets Introduction Part II
 3. Simple Notepad Application in PyQt6 
