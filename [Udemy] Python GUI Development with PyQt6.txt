@@ -22,7 +22,7 @@ Finish
 
 5. 2D Graphics And Drawing
 Start
-
+Finish
 
 6. QtQuick & QML in PyQt6 
 7. Charts in PyQt6 
