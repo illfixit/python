@@ -26,7 +26,7 @@ Finish
 
 6. QtQuick & QML in PyQt6 
 Start
-
+Finish
 
 7. Charts in PyQt6 
 8. Library Management System in PyQt6 
