@@ -34,6 +34,6 @@ Finish
 
 8. Library Management System in PyQt6 
 Start
-
+Finish
 
 9. QtMultiMedia, QtWebEngine & Packaging PyQt Application 
