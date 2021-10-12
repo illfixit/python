@@ -1,0 +1,66 @@
+[Udemy] The Complete Python Pro Bootcamp for 2021
+
+01. Working with Variables in Python to Manage Data 
+02. Understanding Data Types and How to Manipulate Strings 
+03. Control Flow and Logical Operators 
+04. Randomisation and Python Lists 
+05. Python Loops 
+06. Python Functions & Karel 
+07. Hangman 
+08. Function Parameters & Caesar Cipher 
+09. Dictionaries, Nesting and the Secret Auction 
+10. Functions with Outputs 
+11. The Blackjack Capstone Project 
+12. Scope & Number Guessing Game 
+13. Debugging_ How to Find and Fix Errors in your Code 
+14. Higher Lower Game Project 
+15. Local Development Environment Setup & the Coffee Machine
+16. Object Oriented Programming (OOP)
+17. The Quiz Project & the Benefits of OOP
+18. Turtle & the Graphical User Interface (GUI)
+19. Instances, State and Higher Order Functions
+20. Build the Snake Game Part 1_ Animation & Coordinates
+21. Build the Snake Game Part 2_ Inheritance & List Slicing
+22. Build Pong_ The Famous Arcade Game
+23. The Turtle Crossing Capstone Project
+24. Files, Directories and Paths
+25. Working with CSV Data and the Pandas Library
+26. List Comprehension and the NATO Alphabet
+27. Tkinter, _args, __kwargs and Creating GUI Programs
+28. Tkinter, Dynamic Typing and the Pomodoro GUI Application
+29. Building a Password Manager GUI App with Tkinter
+30. Errors, Exceptions and JSON Data_ Improving the Password
+31. Flash Card App Capstone Project 
+32. Send Email (smtplib) & Manage Dates (datetime) 
+33. API Endpoints & API Parameters - ISS Overhead Notifier 
+34. API Practice - Creating a GUI Quiz App 
+35. Keys, Authentication & Environment Variables_ Send SMS 
+36. Stock Trading News Alert Project 
+37. Habit Tracking Project_ API Post Requests & Headers 
+38. Workout Tracking Using Google Sheets 
+39. Capstone Part 1_ Flight Deal Finder 
+40. Capstone Part 2_ Flight Club 
+41. Introduction to HTML 
+42. Intermediate HTML 
+43. Introduction to CSS 
+44. Intermediate CSS 
+45. Web Scraping with Beautiful Soup 
+46. Create a Spotify Playlist using the Musical Time Machine 
+47. Create an Automated Amazon Price Tracker 
+48. Selenium Webdriver Browser and Game Playing Bot 
+49. Automating Job Applications on LinkedIn 
+50. Auto Tinder Swiping Bot 
+51. Internet Speed Twitter Complaint Bot 
+52. Instagram Follower Bot 
+53. Web Scraping Capstone - Data Entry Job Automation 
+54. Introduction to Web Development with Flask 
+55. HTML & URL Parsing in Flask and the Higher Lower Game 
+56. Rendering HTML_Static files and Using Website Templates 
+57. Templating with Jinja in Flask Applications 
+58. Bootstrap 
+59. Web Design School - How to Create a Website that People will Love 
+60. Building Your Own API with RESTful Routing 
+61. Authentication with Flask 
+62. Deploying Your Web Application with Heroku 
+63. Portfolio Project - [Python Web Development] 
+Bonus Section
