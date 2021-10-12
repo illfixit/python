@@ -5,6 +5,9 @@ Start
 Finish
 
 02. Understanding Data Types and How to Manipulate Strings 
+Start
+
+
 03. Control Flow and Logical Operators 
 04. Randomisation and Python Lists 
 05. Python Loops 
