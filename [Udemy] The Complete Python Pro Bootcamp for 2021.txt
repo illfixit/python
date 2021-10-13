@@ -10,7 +10,7 @@ Finish
 
 03. Control Flow and Logical Operators 
 Start
-
+Finish
 
 04. Randomisation and Python Lists 
 05. Python Loops 
