@@ -9,6 +9,9 @@ Start
 Finish
 
 03. Control Flow and Logical Operators 
+Start
+
+
 04. Randomisation and Python Lists 
 05. Python Loops 
 06. Python Functions & Karel 
