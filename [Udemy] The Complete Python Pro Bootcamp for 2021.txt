@@ -13,6 +13,9 @@ Start
 Finish
 
 04. Randomisation and Python Lists 
+Start
+
+
 05. Python Loops 
 06. Python Functions & Karel 
 07. Hangman 
