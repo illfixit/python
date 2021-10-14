@@ -22,7 +22,7 @@ Finish
 
 06. Python Functions & Karel
 Start
-
+Finish
 
 07. Hangman 
 08. Function Parameters & Caesar Cipher 
