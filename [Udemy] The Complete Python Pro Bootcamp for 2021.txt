@@ -20,7 +20,10 @@ Finish
 Start
 Finish
 
-06. Python Functions & Karel 
+06. Python Functions & Karel
+Start
+
+
 07. Hangman 
 08. Function Parameters & Caesar Cipher 
 09. Dictionaries, Nesting and the Secret Auction 
