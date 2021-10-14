@@ -18,7 +18,7 @@ Finish
 
 05. Python Loops 
 Start
-
+Finish
 
 06. Python Functions & Karel 
 07. Hangman 
