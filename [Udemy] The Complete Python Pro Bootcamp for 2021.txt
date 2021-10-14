@@ -17,6 +17,9 @@ Start
 Finish
 
 05. Python Loops 
+Start
+
+
 06. Python Functions & Karel 
 07. Hangman 
 08. Function Parameters & Caesar Cipher 
