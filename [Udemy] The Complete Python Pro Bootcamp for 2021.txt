@@ -30,7 +30,7 @@ Finish
 
 08. Function Parameters & Caesar Cipher 
 Start
-
+Finish
 
 09. Dictionaries, Nesting and the Secret Auction 
 10. Functions with Outputs 
