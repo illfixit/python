@@ -25,6 +25,9 @@ Start
 Finish
 
 07. Hangman 
+Start
+
+
 08. Function Parameters & Caesar Cipher 
 09. Dictionaries, Nesting and the Secret Auction 
 10. Functions with Outputs 
