@@ -32,7 +32,10 @@ Finish
 Start
 Finish
 
-09. Dictionaries, Nesting and the Secret Auction 
+09. Dictionaries, Nesting and the Secret Auction
+Start
+
+
 10. Functions with Outputs 
 11. The Blackjack Capstone Project 
 12. Scope & Number Guessing Game 
