@@ -37,6 +37,9 @@ Start
 Finish
 
 10. Functions with Outputs 
+Start
+
+
 11. The Blackjack Capstone Project 
 12. Scope & Number Guessing Game 
 13. Debugging_ How to Find and Fix Errors in your Code 
