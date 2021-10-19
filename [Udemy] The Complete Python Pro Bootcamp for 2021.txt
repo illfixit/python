@@ -41,6 +41,9 @@ Start
 Finish
 
 11. The Blackjack Capstone Project 
+Start
+
+
 12. Scope & Number Guessing Game 
 13. Debugging_ How to Find and Fix Errors in your Code 
 14. Higher Lower Game Project 
