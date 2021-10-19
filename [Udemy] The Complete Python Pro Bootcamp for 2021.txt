@@ -46,7 +46,7 @@ Finish
 
 12. Scope & Number Guessing Game 
 Start
-
+Finish
 
 13. Debugging_ How to Find and Fix Errors in your Code 
 14. Higher Lower Game Project 
