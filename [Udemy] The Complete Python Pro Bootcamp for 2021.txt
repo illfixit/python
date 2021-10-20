@@ -53,6 +53,9 @@ Start
 Finish
 
 14. Higher Lower Game Project 
+Start
+
+
 15. Local Development Environment Setup & the Coffee Machine
 16. Object Oriented Programming (OOP)
 17. The Quiz Project & the Benefits of OOP
