@@ -50,7 +50,7 @@ Finish
 
 13. Debugging How to Find and Fix Errors in your Code 
 Start
-
+Finish
 
 14. Higher Lower Game Project 
 15. Local Development Environment Setup & the Coffee Machine
