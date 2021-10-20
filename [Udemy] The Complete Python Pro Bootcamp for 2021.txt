@@ -54,7 +54,7 @@ Finish
 
 14. Higher Lower Game Project 
 Start
-
+Finish
 
 15. Local Development Environment Setup & the Coffee Machine
 16. Object Oriented Programming (OOP)
