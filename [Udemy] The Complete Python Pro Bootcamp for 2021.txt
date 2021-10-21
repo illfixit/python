@@ -58,7 +58,7 @@ Finish
 
 15. Local Development Environment Setup & the Coffee Machine
 Start
-
+Finish
 
 16. Object Oriented Programming (OOP)
 17. The Quiz Project & the Benefits of OOP
