@@ -57,6 +57,9 @@ Start
 Finish
 
 15. Local Development Environment Setup & the Coffee Machine
+Start
+
+
 16. Object Oriented Programming (OOP)
 17. The Quiz Project & the Benefits of OOP
 18. Turtle & the Graphical User Interface (GUI)
