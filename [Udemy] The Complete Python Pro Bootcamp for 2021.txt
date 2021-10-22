@@ -65,6 +65,9 @@ Start
 Finish
 
 17. The Quiz Project & the Benefits of OOP
+Start
+
+
 18. Turtle & the Graphical User Interface (GUI)
 19. Instances, State and Higher Order Functions
 20. Build the Snake Game Part 1_ Animation & Coordinates
