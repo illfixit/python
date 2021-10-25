@@ -78,7 +78,7 @@ Finish
 
 20. Build the Snake Game Part 1_ Animation & Coordinates
 Start
-
+Finish
 
 21. Build the Snake Game Part 2_ Inheritance & List Slicing
 22. Build Pong_ The Famous Arcade Game
