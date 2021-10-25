@@ -74,7 +74,7 @@ Finish
 
 19. Instances, State and Higher Order Functions
 Start
-
+Finish
 
 20. Build the Snake Game Part 1_ Animation & Coordinates
 21. Build the Snake Game Part 2_ Inheritance & List Slicing
