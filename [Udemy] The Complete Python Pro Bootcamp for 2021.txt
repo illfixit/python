@@ -73,6 +73,9 @@ Start
 Finish
 
 19. Instances, State and Higher Order Functions
+Start
+
+
 20. Build the Snake Game Part 1_ Animation & Coordinates
 21. Build the Snake Game Part 2_ Inheritance & List Slicing
 22. Build Pong_ The Famous Arcade Game
