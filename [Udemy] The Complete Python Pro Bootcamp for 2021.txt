@@ -81,6 +81,9 @@ Start
 Finish
 
 21. Build the Snake Game Part 2_ Inheritance & List Slicing
+Start
+
+
 22. Build Pong_ The Famous Arcade Game
 23. The Turtle Crossing Capstone Project
 24. Files, Directories and Paths
