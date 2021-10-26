@@ -86,7 +86,7 @@ Finish
 
 22. Build Pong_ The Famous Arcade Game
 Start
-
+Finish
 
 23. The Turtle Crossing Capstone Project
 24. Files, Directories and Paths
