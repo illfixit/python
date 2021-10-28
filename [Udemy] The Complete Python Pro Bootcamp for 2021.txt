@@ -97,6 +97,9 @@ Start
 Finish
 
 25. Working with CSV Data and the Pandas Library
+Start
+
+
 26. List Comprehension and the NATO Alphabet
 27. Tkinter, _args, __kwargs and Creating GUI Programs
 28. Tkinter, Dynamic Typing and the Pomodoro GUI Application
