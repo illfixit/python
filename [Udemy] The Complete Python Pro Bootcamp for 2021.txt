@@ -98,7 +98,7 @@ Finish
 
 25. Working with CSV Data and the Pandas Library
 Start
-
+Finish
 
 26. List Comprehension and the NATO Alphabet
 27. Tkinter, _args, __kwargs and Creating GUI Programs
