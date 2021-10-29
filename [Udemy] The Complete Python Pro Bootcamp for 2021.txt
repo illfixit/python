@@ -109,6 +109,9 @@ Start
 Finish
 
 28. Tkinter, Dynamic Typing and the Pomodoro GUI Application
+Start
+
+
 29. Building a Password Manager GUI App with Tkinter
 30. Errors, Exceptions and JSON Data_ Improving the Password
 31. Flash Card App Capstone Project 
