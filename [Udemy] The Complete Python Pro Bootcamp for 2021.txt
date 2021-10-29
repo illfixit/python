@@ -106,7 +106,7 @@ Finish
 
 27. Tkinter, _args, __kwargs and Creating GUI Programs
 Start
-
+Finish
 
 28. Tkinter, Dynamic Typing and the Pomodoro GUI Application
 29. Building a Password Manager GUI App with Tkinter
