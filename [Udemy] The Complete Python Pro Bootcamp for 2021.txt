@@ -122,7 +122,7 @@ Finish
 
 31. Flash Card App Capstone Project 
 Start
-
+Finish
 
 32. Send Email (smtplib) & Manage Dates (datetime) 
 33. API Endpoints & API Parameters - ISS Overhead Notifier 
