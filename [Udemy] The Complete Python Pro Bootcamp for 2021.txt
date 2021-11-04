@@ -140,7 +140,10 @@ Finish
 Start
 Finish
 
-36. Stock Trading News Alert Project 
+36. Stock Trading News Alert Project
+Start
+
+
 37. Habit Tracking Project_ API Post Requests & Headers 
 38. Workout Tracking Using Google Sheets 
 39. Capstone Part 1_ Flight Deal Finder 
