@@ -142,7 +142,7 @@ Finish
 
 36. Stock Trading News Alert Project
 Start
-
+Finish
 
 37. Habit Tracking Project_ API Post Requests & Headers 
 38. Workout Tracking Using Google Sheets 
