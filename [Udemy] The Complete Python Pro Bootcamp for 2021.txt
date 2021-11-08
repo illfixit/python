@@ -162,7 +162,7 @@ Finish
 
 41. Introduction to HTML 
 Start
-
+Finish
 
 42. Intermediate HTML 
 43. Introduction to CSS 
