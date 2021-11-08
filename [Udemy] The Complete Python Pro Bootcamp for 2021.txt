@@ -153,6 +153,9 @@ Start
 Finish
 
 39. Capstone Part 1_ Flight Deal Finder 
+Start
+
+
 40. Capstone Part 2_ Flight Club 
 41. Introduction to HTML 
 42. Intermediate HTML 
