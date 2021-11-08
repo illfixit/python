@@ -156,7 +156,10 @@ Finish
 Start
 Finish
 
-40. Capstone Part 2 Flight Club 
+40. Capstone Part 2 Flight Club
+Start
+
+
 41. Introduction to HTML 
 42. Intermediate HTML 
 43. Introduction to CSS 
