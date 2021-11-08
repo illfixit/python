@@ -158,7 +158,7 @@ Finish
 
 40. Capstone Part 2 Flight Club
 Start
-
+Finish
 
 41. Introduction to HTML 
 42. Intermediate HTML 
