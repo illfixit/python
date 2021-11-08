@@ -76,15 +76,15 @@ Finish
 Start
 Finish
 
-20. Build the Snake Game Part 1_ Animation & Coordinates
+20. Build the Snake Game Part 1 Animation & Coordinates
 Start
 Finish
 
-21. Build the Snake Game Part 2_ Inheritance & List Slicing
+21. Build the Snake Game Part 2 Inheritance & List Slicing
 Start
 Finish
 
-22. Build Pong_ The Famous Arcade Game
+22. Build Pong The Famous Arcade Game
 Start
 Finish
 
@@ -104,7 +104,7 @@ Finish
 Start
 Finish
 
-27. Tkinter, _args, __kwargs and Creating GUI Programs
+27. Tkinter, args, kwargs and Creating GUI Programs
 Start
 Finish
 
@@ -116,7 +116,7 @@ Finish
 Start
 Finish
 
-30. Errors, Exceptions and JSON Data_ Improving the Password
+30. Errors, Exceptions and JSON Data Improving the Password
 Start
 Finish
 
@@ -136,7 +136,7 @@ Finish
 Start
 Finish
 
-35. Keys, Authentication & Environment Variables_ Send SMS 
+35. Keys, Authentication & Environment Variables Send SMS 
 Start
 Finish
 
@@ -144,7 +144,7 @@ Finish
 Start
 Finish
 
-37. Habit Tracking Project_ API Post Requests & Headers
+37. Habit Tracking Project API Post Requests & Headers
 Start
 Finish
 
@@ -152,11 +152,11 @@ Finish
 Start
 Finish
 
-39. Capstone Part 1_ Flight Deal Finder 
+39. Capstone Part 1 Flight Deal Finder 
 Start
+Finish
 
-
-40. Capstone Part 2_ Flight Club 
+40. Capstone Part 2 Flight Club 
 41. Introduction to HTML 
 42. Intermediate HTML 
 43. Introduction to CSS 
@@ -172,7 +172,7 @@ Start
 53. Web Scraping Capstone - Data Entry Job Automation 
 54. Introduction to Web Development with Flask 
 55. HTML & URL Parsing in Flask and the Higher Lower Game 
-56. Rendering HTML_Static files and Using Website Templates 
+56. Rendering HTMLStatic files and Using Website Templates 
 57. Templating with Jinja in Flask Applications 
 58. Bootstrap 
 59. Web Design School - How to Create a Website that People will Love 
