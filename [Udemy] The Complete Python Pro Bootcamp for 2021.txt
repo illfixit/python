@@ -169,6 +169,9 @@ Start
 Finish
 
 43. Introduction to CSS 
+Start
+
+
 44. Intermediate CSS 
 45. Web Scraping with Beautiful Soup 
 46. Create a Spotify Playlist using the Musical Time Machine 
