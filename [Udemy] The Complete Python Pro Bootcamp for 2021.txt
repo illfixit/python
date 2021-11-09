@@ -166,7 +166,7 @@ Finish
 
 42. Intermediate HTML 
 Start
-
+Finish
 
 43. Introduction to CSS 
 44. Intermediate CSS 
