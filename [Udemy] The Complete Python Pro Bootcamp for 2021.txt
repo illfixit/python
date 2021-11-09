@@ -165,6 +165,9 @@ Start
 Finish
 
 42. Intermediate HTML 
+Start
+
+
 43. Introduction to CSS 
 44. Intermediate CSS 
 45. Web Scraping with Beautiful Soup 
