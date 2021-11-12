@@ -190,7 +190,7 @@ Finish
 
 48. Selenium Webdriver Browser and Game Playing Bot 
 Start
-
+Finish
 
 49. Automating Job Applications on LinkedIn 
 50. Auto Tinder Swiping Bot 
