@@ -210,7 +210,7 @@ Finish
 
 53. Web Scraping Capstone - Data Entry Job Automation
 Start
-
+Finish
 
 54. Introduction to Web Development with Flask 
 55. HTML & URL Parsing in Flask and the Higher Lower Game 
