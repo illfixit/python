@@ -204,7 +204,10 @@ Finish
 Start
 Finish
 
-52. Instagram Follower Bot 
+52. Instagram Follower Bot
+Start
+
+
 53. Web Scraping Capstone - Data Entry Job Automation 
 54. Introduction to Web Development with Flask 
 55. HTML & URL Parsing in Flask and the Higher Lower Game 
