@@ -226,7 +226,7 @@ Finish
 
 57. Templating with Jinja in Flask Applications 
 Start
-
+Finish
 
 58. Bootstrap 
 59. Web Design School - How to Create a Website that People will Love 
