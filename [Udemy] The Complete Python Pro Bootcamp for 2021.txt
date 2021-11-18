@@ -220,7 +220,10 @@ Finish
 Start
 Finish
 
-56. Rendering HTMLStatic files and Using Website Templates 
+56. Rendering HTMLStatic files and Using Website Templates
+Start
+
+
 57. Templating with Jinja in Flask Applications 
 58. Bootstrap 
 59. Web Design School - How to Create a Website that People will Love 
