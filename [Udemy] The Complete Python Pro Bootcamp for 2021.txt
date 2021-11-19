@@ -240,7 +240,10 @@ Finish
 Start
 Finish
 
-61. Authentication with Flask 
+61. Authentication with Flask
+Start
+
+
 62. Deploying Your Web Application with Heroku 
 63. Portfolio Project - [Python Web Development] 
 Bonus Section
