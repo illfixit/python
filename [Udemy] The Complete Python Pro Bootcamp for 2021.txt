@@ -244,6 +244,9 @@ Finish
 Start
 Finish
 
-62. Deploying Your Web Application with Heroku 
+62. Deploying Your Web Application with Heroku
+Start
+
+
 63. Portfolio Project - [Python Web Development] 
 Bonus Section
