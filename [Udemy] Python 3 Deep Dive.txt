@@ -5,6 +5,9 @@ Start
 Finish
 
 2. A Quick Refresher - Basics Review 2:23:00
+Start
+
+
 3. Variables and Memory 3:01:57
 4. Numeric Types 7:54:55
 5. Function Parameters 4:05:27
