@@ -1,0 +1,51 @@
+[Udemy] Python 3 Deep Dive
+
+1. Introduction 0:18:08
+2. A Quick Refresher - Basics Review 2:23:00
+3. Variables and Memory 3:01:57
+4. Numeric Types 7:54:55
+5. Function Parameters 4:05:27
+6. First-Class Functions 5:19:07
+7. Scopes, Closures and Decorators 8:34:31
+8. Tuples as Data Structures and Named Tuples 3:31:26
+9. Modules, Packages and Namespaces 5:43:20
+10. Extras 3:47:20
+
+1. Introduction 0:15:39
+2. Sequence Types 7:55:28
+3. Project 1 1:00:18
+4. Iterables and Iterators 4:51:49
+5. Project 2 0:17:03
+6. Generators 2:11:31
+7. Project 3 1:01:59
+8. Iteration Tools 4:25:59
+9. Project 4 2:32:16
+10. Context Managers 3:34:07
+11. Project 5 0:36:09
+12. Generators as Coroutines 5:43:01
+13. Project 6 0:16:08
+
+1. Introduction 0:20:18
+2. Associative Arrays - Theory! 0:50:59
+3. Dictionaries 3:40:48
+4. Coding Exercises 0:25:37
+5. Sets 3:16:34
+6. Project 1 0:55:08
+7. Serialization and Deserialization 5:52:51
+8. Coding Exercises 0:57:16
+9. Specialized Dictionaries 3:33:01
+10. Coding Exercises 0:30:33
+
+1. Introduction 0:14:31
+2. Classes 5:45:32
+3. Project 1 2:52:01
+4. Polymorphism and Special Methods 2:47:47
+5. Project 2 0:38:17
+6. Single Inheritance 2:44:31
+7. Project 3 1:39:31
+8. Descriptors 4:30:02
+9. Project 4 0:54:05
+10. Enumerations 2:00:06
+11. Project 5 0:16:09
+12. Exceptions (Single Inheritance) 3:14:23
+13. Project 6 0:35:36
