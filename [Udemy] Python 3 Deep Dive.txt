@@ -15,6 +15,7 @@ Finish
 
 3. Variables and Memory Part II
 Start
+Finish
 
 4. Numeric Types 7:54:55
 5. Function Parameters 4:05:27
