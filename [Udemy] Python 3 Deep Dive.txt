@@ -13,6 +13,9 @@ Finish
 Start
 Finish
 
+3. Variables and Memory Part II
+Start
+
 4. Numeric Types 7:54:55
 5. Function Parameters 4:05:27
 6. First-Class Functions 5:19:07
