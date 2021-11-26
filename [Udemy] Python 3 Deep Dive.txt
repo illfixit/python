@@ -27,6 +27,9 @@ Start
 Finish
 
 4. Numeric Types Part III
+Start
+
+
 4. Numeric Types Part IV
 
 5. Function Parameters 4:05:27
