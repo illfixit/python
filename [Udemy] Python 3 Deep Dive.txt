@@ -32,7 +32,7 @@ Finish
 
 4. Numeric Types Part IV
 Start
-
+Finish
 
 5. Function Parameters 4:05:27
 6. First-Class Functions 5:19:07
