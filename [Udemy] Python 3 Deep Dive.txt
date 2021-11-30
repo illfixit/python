@@ -50,6 +50,7 @@ Finish
 
 6. First-Class Functions Part II
 Start
+Finish
 
 7. Scopes, Closures and Decorators 8:34:31
 8. Tuples as Data Structures and Named Tuples 3:31:26
