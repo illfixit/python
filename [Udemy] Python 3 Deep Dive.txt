@@ -59,7 +59,7 @@ Finish
 
 7. Scopes, Closures and Decorators Part II
 Start
-
+Finish
 
 7. Scopes, Closures and Decorators Part III
 7. Scopes, Closures and Decorators Part IV
