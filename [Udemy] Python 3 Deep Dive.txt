@@ -55,7 +55,7 @@ Finish
 7. Scopes, Closures and Decorators 8:34:31
 7. Scopes, Closures and Decorators Part I
 Start
-
+Finish
 
 7. Scopes, Closures and Decorators Part II
 7. Scopes, Closures and Decorators Part III
