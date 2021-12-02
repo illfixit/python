@@ -62,6 +62,9 @@ Start
 Finish
 
 7. Scopes, Closures and Decorators Part III
+Start
+
+
 7. Scopes, Closures and Decorators Part IV
 
 8. Tuples as Data Structures and Named Tuples 3:31:26
