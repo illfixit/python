@@ -66,6 +66,9 @@ Start
 Finish
 
 7. Scopes, Closures and Decorators Part IV
+Start
+
+
 
 8. Tuples as Data Structures and Named Tuples 3:31:26
 9. Modules, Packages and Namespaces 5:43:20
