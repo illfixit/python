@@ -73,7 +73,7 @@ Finish
 8. Tuples as Data Structures and Named Tuples 3:31:26
 8. Tuples as Data Structures and Named Tuples Part I
 Start
-
+Finish
 
 8. Tuples as Data Structures and Named Tuples  Part II
 
