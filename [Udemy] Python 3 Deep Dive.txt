@@ -86,7 +86,7 @@ Finish
 
 9. Modules, Packages and Namespaces Part II
 Start
-
+Finish
 
 9. Modules, Packages and Namespaces Part III
 10. Extras 3:47:20
