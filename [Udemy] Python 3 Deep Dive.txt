@@ -107,6 +107,15 @@ Start
 Finish
 
 2. Sequence Types 7:55:28
+2. Sequence Types Part I
+Start
+
+
+2. Sequence Types Part II
+2. Sequence Types Part III 
+2. Sequence Types Part IV
+
+
 3. Project 1 1:00:18
 4. Iterables and Iterators 4:51:49
 5. Project 2 0:17:03
