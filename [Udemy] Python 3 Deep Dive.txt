@@ -103,6 +103,9 @@ Finish
 
 
 1. Introduction 0:15:39
+Start
+
+
 2. Sequence Types 7:55:28
 3. Project 1 1:00:18
 4. Iterables and Iterators 4:51:49
