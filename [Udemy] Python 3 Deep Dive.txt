@@ -120,6 +120,7 @@ Start
 Finish
 
 2. Sequence Types Part IV
+Start
 
 
 3. Project 1 1:00:18
