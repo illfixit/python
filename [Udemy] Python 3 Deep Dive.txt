@@ -117,7 +117,7 @@ Finish
 
 2. Sequence Types Part III 
 Start
-
+Finish
 
 2. Sequence Types Part IV
 
