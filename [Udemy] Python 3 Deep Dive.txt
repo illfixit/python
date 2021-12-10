@@ -124,6 +124,9 @@ Start
 Finish
 
 3. Project 1 1:00:18
+Start
+
+
 4. Iterables and Iterators 4:51:49
 5. Project 2 0:17:03
 6. Generators 2:11:31
