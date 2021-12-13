@@ -132,9 +132,14 @@ Finish
 Start
 Finish
 
-
 4. Iterables and Iterators Part II
+Start
+
+
 4. Iterables and Iterators Part III
+
+
+
 5. Project 2 0:17:03
 6. Generators 2:11:31
 7. Project 3 1:01:59
