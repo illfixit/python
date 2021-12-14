@@ -146,7 +146,7 @@ Finish
 
 6. Generators 2:11:31
 Start
-
+Finish
 
 7. Project 3 1:01:59
 8. Iteration Tools 4:25:59
