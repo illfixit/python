@@ -153,6 +153,11 @@ Start
 Finish
 
 8. Iteration Tools 4:25:59
+8. Iteration Tools Part I
+Start
+
+
+8. Iteration Tools Part II
 9. Project 4 2:32:16
 10. Context Managers 3:34:07
 11. Project 5 0:36:09
