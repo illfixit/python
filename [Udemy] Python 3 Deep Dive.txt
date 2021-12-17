@@ -166,6 +166,11 @@ Start
 Finish
 
 10. Context Managers 3:34:07
+10. Context Managers Part I
+Start
+
+
+10. Context Managers Part II
 11. Project 5 0:36:09
 12. Generators as Coroutines 5:43:01
 13. Project 6 0:16:08
