@@ -185,7 +185,7 @@ Finish
 
 12. Generators as Coroutines Part II
 Start
-
+Finish
 
 12. Generators as Coroutines Part III
 
