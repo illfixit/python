@@ -179,6 +179,13 @@ Start
 Finish
 
 12. Generators as Coroutines 5:43:01
+12. Generators as Coroutines Part I
+Start
+
+
+12. Generators as Coroutines Part II
+12. Generators as Coroutines Part III
+
 13. Project 6 0:16:08
 
 1. Introduction 0:20:18
