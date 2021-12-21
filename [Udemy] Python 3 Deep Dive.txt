@@ -189,7 +189,7 @@ Finish
 
 12. Generators as Coroutines Part III
 Start
-
+Finish
 
 13. Project 6 0:16:08
 
