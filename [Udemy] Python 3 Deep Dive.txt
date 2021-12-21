@@ -193,6 +193,7 @@ Finish
 
 13. Project 6 0:16:08
 Start
+Finish
 
 1. Introduction 0:20:18
 2. Associative Arrays - Theory! 0:50:59
