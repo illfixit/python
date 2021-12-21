@@ -196,6 +196,9 @@ Start
 Finish
 
 1. Introduction 0:20:18
+Start
+
+
 2. Associative Arrays - Theory! 0:50:59
 3. Dictionaries 3:40:48
 4. Coding Exercises 0:25:37
