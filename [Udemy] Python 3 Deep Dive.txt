@@ -209,6 +209,8 @@ Start
 Finish
 
 3. Dictionaries Part II
+Start
+
 
 4. Coding Exercises 0:25:37
 5. Sets 3:16:34
