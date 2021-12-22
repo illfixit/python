@@ -204,6 +204,12 @@ Start
 Finish
 
 3. Dictionaries 3:40:48
+3. Dictionaries Part I
+Start
+
+
+3. Dictionaries Part II
+
 4. Coding Exercises 0:25:37
 5. Sets 3:16:34
 6. Project 1 0:55:08
