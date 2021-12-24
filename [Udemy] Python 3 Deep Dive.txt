@@ -222,6 +222,8 @@ Start
 Finish
 
 5. Sets Part II
+Start
+
 
 6. Project 1 0:55:08
 7. Serialization and Deserialization 5:52:51
