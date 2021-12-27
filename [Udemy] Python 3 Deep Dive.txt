@@ -231,6 +231,9 @@ Finish
 
 7. Serialization and Deserialization 5:52:51
 7. Serialization and Deserialization Part I
+Start
+
+
 7. Serialization and Deserialization Part II
 7. Serialization and Deserialization Part III
 7. Serialization and Deserialization Part IV
