@@ -227,7 +227,7 @@ Finish
 
 6. Project 1 0:55:08
 Start
-
+Finish
 
 7. Serialization and Deserialization 5:52:51
 8. Coding Exercises 0:57:16
