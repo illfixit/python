@@ -230,6 +230,13 @@ Start
 Finish
 
 7. Serialization and Deserialization 5:52:51
+7. Serialization and Deserialization Part I
+7. Serialization and Deserialization Part II
+7. Serialization and Deserialization Part III
+7. Serialization and Deserialization Part IV
+7. Serialization and Deserialization Part V
+7. Serialization and Deserialization Part VI
+
 8. Coding Exercises 0:57:16
 9. Specialized Dictionaries 3:33:01
 10. Coding Exercises 0:30:33
