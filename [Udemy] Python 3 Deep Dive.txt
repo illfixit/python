@@ -252,9 +252,12 @@ Finish
 
 7. Serialization and Deserialization Part VI
 Start
-
+Finish
 
 8. Coding Exercises 0:57:16
+Start
+
+
 9. Specialized Dictionaries 3:33:01
 10. Coding Exercises 0:30:33
 
