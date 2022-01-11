@@ -269,7 +269,7 @@ Finish
 
 10. Coding Exercises 0:30:33
 Start
-
+Finish
 
 1. Introduction 0:14:31
 2. Classes 5:45:32
