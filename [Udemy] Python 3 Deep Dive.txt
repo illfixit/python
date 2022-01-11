@@ -272,6 +272,9 @@ Start
 Finish
 
 1. Introduction 0:14:31
+Start
+
+
 2. Classes 5:45:32
 3. Project 1 2:52:01
 4. Polymorphism and Special Methods 2:47:47
