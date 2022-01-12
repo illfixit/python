@@ -276,6 +276,13 @@ Start
 Finish
 
 2. Classes 5:45:32
+2. Classes Part I
+Start
+
+
+2. Classes Part II
+2. Classes Part III
+
 3. Project 1 2:52:01
 4. Polymorphism and Special Methods 2:47:47
 5. Project 2 0:38:17
