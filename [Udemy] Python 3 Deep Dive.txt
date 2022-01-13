@@ -286,7 +286,7 @@ Finish
 
 2. Classes Part III
 Start
-
+Finish
 
 3. Project 1 2:52:01
 4. Polymorphism and Special Methods 2:47:47
@@ -299,3 +299,4 @@ Start
 11. Project 5 0:16:09
 12. Exceptions (Single Inheritance) 3:14:23
 13. Project 6 0:35:36
+14 Metaprogramming 7:01:01
