@@ -289,6 +289,12 @@ Start
 Finish
 
 3. Project 1 2:52:01
+3. Project 1 Part I
+
+
+
+3. Project 1 Part II
+
 4. Polymorphism and Special Methods 2:47:47
 5. Project 2 0:38:17
 6. Single Inheritance 2:44:31
