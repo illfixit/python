@@ -294,6 +294,7 @@ Start
 Finish
 
 3. Project 1 Part II
+Start
 
 4. Polymorphism and Special Methods 2:47:47
 5. Project 2 0:38:17
