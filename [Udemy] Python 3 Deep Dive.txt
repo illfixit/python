@@ -317,7 +317,7 @@ Finish
 
 6. Single Inheritance Part II
 Start
-
+Finish
 
 7. Project 3 1:39:31
 8. Descriptors 4:30:02
