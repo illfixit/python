@@ -333,6 +333,8 @@ Start
 Finish
 
 8. Descriptors Part III
+Start
+
 
 9. Project 4 0:54:05
 10. Enumerations 2:00:06
