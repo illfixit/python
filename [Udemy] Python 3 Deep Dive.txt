@@ -341,8 +341,11 @@ Start
 Finish
 
 10. Enumerations 2:00:06
+10. Enumerations Part I
 Start
+Finish
 
+10. Enumerations Part II
 
 11. Project 5 0:16:09
 12. Exceptions (Single Inheritance) 3:14:23
