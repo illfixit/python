@@ -354,5 +354,10 @@ Start
 Finish
 
 12. Exceptions (Single Inheritance) 3:14:23
+12. Exceptions (Single Inheritance) Part I
+
+
+12. Exceptions (Single Inheritance) Part II
+
 13. Project 6 0:35:36
 14 Metaprogramming 7:01:01
