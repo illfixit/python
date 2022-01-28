@@ -355,7 +355,8 @@ Finish
 
 12. Exceptions (Single Inheritance) 3:14:23
 12. Exceptions (Single Inheritance) Part I
-
+Start
+Finish
 
 12. Exceptions (Single Inheritance) Part II
 
