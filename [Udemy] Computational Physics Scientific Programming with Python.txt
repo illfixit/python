@@ -1,0 +1,16 @@
+[Udemy] Computational Physics Scientific Programming with Python
+
+01 - Python installation via Anaconda & Alternatives 0:43:20
+Start
+
+
+02 - [Optional] Python Crash Course 1:58:23
+03 - Series expansion, interpolation & data fitting 1:53:47
+04 - Derivatives 1:39:04
+05 - Integrals 2:40:55
+06 - Differential equations I Basics and 1-dimensional problems 1:58:29
+07 - Differential equations II Multiple dimensions 2:56:02
+08 - Eigenvalue problems 1:43:38
+09 - Monte Carlo algorithms 2:00:56
+10 - Quantum mechanics Solving the Schrödinger equation 1:10:39
+11 - Nobel prize lecture Electronic properties of graphene 2:00:00
