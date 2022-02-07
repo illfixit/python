@@ -2,7 +2,7 @@
 
 01 - Python installation via Anaconda & Alternatives 0:43:20
 Start
-
+Finish
 
 02 - [Optional] Python Crash Course 1:58:23
 03 - Series expansion, interpolation & data fitting 1:53:47
