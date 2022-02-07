@@ -6,7 +6,7 @@ Finish
 
 02 - [Optional] Python Crash Course 1:58:23
 Start
-
+Finish
 
 03 - Series expansion, interpolation & data fitting 1:53:47
 04 - Derivatives 1:39:04
