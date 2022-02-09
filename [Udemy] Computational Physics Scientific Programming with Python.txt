@@ -17,6 +17,14 @@ Start
 Finish
 
 05 - Integrals 2:40:55
+05 - Integrals Part I
+Start
+
+
+05 - Integrals Part II
+
+
+
 06 - Differential equations I Basics and 1-dimensional problems 1:58:29
 07 - Differential equations II Multiple dimensions 2:56:02
 08 - Eigenvalue problems 1:43:38
