@@ -44,7 +44,7 @@ Finish
 
 09 - Monte Carlo algorithms 2:00:56
 Start
-
+Finish
 
 10 - Quantum mechanics Solving the Schrödinger equation 1:10:39
 11 - Nobel prize lecture Electronic properties of graphene 2:00:00
