@@ -2,7 +2,7 @@
 
 01 - Welcome and Course Overview 0:04:51
 Start
-
+Finish
 
 02 - Course Curriculum and Setup 0:17:39
 03 - HTML 5 1:14:30
