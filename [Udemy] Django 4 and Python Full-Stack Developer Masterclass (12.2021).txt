@@ -5,6 +5,9 @@ Start
 Finish
 
 02 - Course Curriculum and Setup 0:17:39
+Start
+
+
 03 - HTML 5 1:14:30
 04 - CSS 0:49:06
 05 - Bootstrap 0:59:11
