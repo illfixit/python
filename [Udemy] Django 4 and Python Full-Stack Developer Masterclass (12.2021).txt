@@ -22,7 +22,7 @@ Finish
 
 06 - Python Overview - Basics 1:46:00
 Start
-
+Finish
 
 07 - Advanced Python 1:22:50
 08 - Introduction to Django Framework 0:48:41
