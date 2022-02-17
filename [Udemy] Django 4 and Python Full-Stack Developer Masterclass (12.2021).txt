@@ -29,6 +29,9 @@ Start
 Finish
 
 08 - Introduction to Django Framework 0:48:41
+Start
+
+
 09 - Django - Views, Routing, and URLs 1:17:55
 10 - Django -Templates 1:49:42
 11 - Django - Models, Databases, and Queries 1:55:35
