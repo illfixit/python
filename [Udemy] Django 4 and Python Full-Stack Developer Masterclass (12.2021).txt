@@ -26,7 +26,7 @@ Finish
 
 07 - Advanced Python 1:22:50
 Start
-
+Finish
 
 08 - Introduction to Django Framework 0:48:41
 09 - Django - Views, Routing, and URLs 1:17:55
