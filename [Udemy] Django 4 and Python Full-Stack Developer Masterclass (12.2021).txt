@@ -38,6 +38,6 @@ Finish
 
 10 - Django -Templates 1:49:42
 Start
-
+Finish
 
 11 - Django - Models, Databases, and Queries 1:55:35
