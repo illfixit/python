@@ -5,6 +5,9 @@ Start
 Finish
 
 02 The Basics 0:51:31
+Start
+
+
 03 Building our Database 1:01:35
 04 Create Update Delete (CRUD) 0:33:50
 05 Static Files & Theme Installation 1:21:09
