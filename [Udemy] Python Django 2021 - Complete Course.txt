@@ -9,6 +9,9 @@ Start
 Finish
 
 03 Building our Database 1:01:35
+Start
+
+
 04 Create Update Delete (CRUD) 0:33:50
 05 Static Files & Theme Installation 1:21:09
 06 Add More Apps 1:34:03
