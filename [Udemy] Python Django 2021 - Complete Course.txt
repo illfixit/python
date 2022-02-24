@@ -25,6 +25,9 @@ Start
 Finish
 
 07 Authentication 1:20:13
+Start
+
+
 08 User Actions 1:16:49
 09 Search & Pagination 1:33:24
 10 Reviews & Messages 1:30:54
